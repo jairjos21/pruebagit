@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main{
+	padding:20px 0;	
+}
+
+header{
+	background:#e1e1e1;
+	padding:25px;
+}
+
+#slider{
+	background:#cfcfcf;
+	padding:120px 0;
+	text-align:center;
+}
+
+.f-left{
+	float:left;	
+}
+
+.align-left{
+	text-align:left;
+}
+
+.f-right{
+	float:right;	
+}
+
+.align-right{
+	text-align:right;
+}
+
+.cnt{
+	text-align:center;	
+}
+
+footer{
+	background:#e1e1e1;
+	padding:25px;
+}
