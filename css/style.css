@@ -36,6 +36,12 @@ header{
 	text-align:center;	
 }
 
+.btn-color-black{
+	background:#000000;
+	color:#ffffff;
+	padding:15px 50px;	
+}
+
 footer{
 	background:#e1e1e1;
 	padding:25px;
